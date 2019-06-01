@@ -22,14 +22,14 @@ A simple Python project to create an employee registration form using Flask fram
 3. Clone this repo & run *regist.py* file
 
 4. A screenshot of how the main route will look like:
-    ![HomeRoute](./HomeRoute.png)
+    ![HomeRoute](./ss1.png)
     
 5. To check the saved database in mySQL, use:
     ```bash
     $ select * from mytable
     ```
     and the saved database would look like:
-    ![mySQLsaveddatabase](./mySQL_saved_database.png)
+    ![mySQLsaveddatabase](./ss2.png)
     **_Enjoy!_**
 
 #
