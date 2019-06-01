@@ -30,7 +30,8 @@ A simple Python project to create an employee registration form using Flask fram
     ```
     and the saved database would look like:
     ![mySQLsaveddatabase](./ss2.png)
-    **_Enjoy!_**
+
+### **_Enjoy!_**
 
 #
 
